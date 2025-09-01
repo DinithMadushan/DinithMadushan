@@ -1,15 +1,14 @@
 # Hi, I'm Dinith Madushan 👋
 
 <p align="center">
-  <!-- Software Engineering themed coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="720"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="720" alt="programmer at work"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/USERNAME?style=flat&label=Followers" alt="GitHub Followers"></a>
-  <a href="https://github.com/USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repos-Update%20Me-blue" alt="Repos"></a>
+  <a href="https://github.com/DinithMadushan?tab=followers"><img src="https://img.shields.io/github/followers/DinithMadushan?style=flat&label=Followers" alt="GitHub Followers"></a>
+  <a href="https://github.com/DinithMadushan?tab=repositories"><img src="https://img.shields.io/badge/Repos-Update%20Me-blue" alt="Repos"></a>
   <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-informational" alt="Pronouns">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DinithMadushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -38,21 +37,19 @@
 
 ## 💡 Featured Projects
 - 📦 **Campus System (Python, OOP)** – Classes for Students, Courses (Degree/Diploma/Certificate), Employees (Academic/Non-Academic), salary & average calculators  
-  - Repo: [DinithMadushan/campus-system](https://github.com/USERNAME/campus-system)
-
-> 🔖 Replace `DinithMadushan` in the links above with your GitHub handle.
+  - Repo: [DinithMadushan/campus-system](https://github.com/DinithMadushan/campus-system)
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" alt="GitHub stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinithMadushan&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true" alt="GitHub streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DinithMadushan&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithMadushan&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
@@ -65,10 +62,10 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/dinith-madushan-a33972312/)
-- ✉️ Email: dinithmadushan38@gmail.com
-- 🧑‍💻 GitHub: (https://github.com/USERNAME)
-](https://github.com/DinithMadushan)
+- 💼 LinkedIn: [linkedin.com/in/dinith-madushan-a33972312](https://www.linkedin.com/in/dinith-madushan-a33972312/)
+- ✉️ Email: **dinithmadushan38@gmail.com**
+- 🧑‍💻 GitHub: [github.com/DinithMadushan](https://github.com/DinithMadushan)
+
 ---
 
 <p align="center">
