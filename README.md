@@ -65,10 +65,10 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- ✉️ Email: **your.name@example.com**
-- 🧑‍💻 GitHub: [github.com/USERNAME](https://github.com/USERNAME)
-
+- 💼 LinkedIn: [(https://www.linkedin.com/in/dinith-madushan-a33972312/)](https://www.linkedin.com/in/dinith-madushan-a33972312/)
+- ✉️ Email: dinithmadushan38@gmail.com
+- 🧑‍💻 GitHub: [[github.com/USERNAME](https://github.com/USERNAME)
+](https://github.com/DinithMadushan)
 ---
 
 <p align="center">
