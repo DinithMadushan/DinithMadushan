@@ -17,6 +17,7 @@
 - 🎓 Passionate about **Software Engineering** and **Computer Science**
 - 📚 Currently exploring **Agile methodologies** and building real-world systems
 - 🧩 Enjoy learning via **videos, hands-on practice, and reading**
+- 🌱 I’m currently learning **HTML, C++,CSS, JavaScript,Java, Python**
 - 🏗️ Working on a **Campus System (Python, OOP)** with modules for buildings, clubs, courses, events, enrollments, students, and employees
 - 🧠 Interested in **OOP**, **DSA**, and clean architecture
 
@@ -24,10 +25,11 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
