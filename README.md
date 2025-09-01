@@ -65,9 +65,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [(https://www.linkedin.com/in/dinith-madushan-a33972312/)](https://www.linkedin.com/in/dinith-madushan-a33972312/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/dinith-madushan-a33972312/)
 - ✉️ Email: dinithmadushan38@gmail.com
-- 🧑‍💻 GitHub: [[github.com/USERNAME](https://github.com/USERNAME)
+- 🧑‍💻 GitHub: (https://github.com/USERNAME)
 ](https://github.com/DinithMadushan)
 ---
 
