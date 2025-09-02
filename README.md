@@ -1,7 +1,7 @@
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="620" alt="programmer at work"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="720" alt="programmer at work"/>
 </p>
 
 <p align="center">
