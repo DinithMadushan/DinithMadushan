@@ -70,6 +70,25 @@
 
 ---
 
+## 🏆 Goals for 2025
+- ✅ Master **Data Structures & Algorithms**
+- ✅ Build **full-stack web applications**
+- ✅ Contribute to **open-source projects**
+- ✅ Improve **system design & architecture skills**
+
+---
+
+## 🧭 Personal Motto
+> *"Code with purpose, design with clarity, and learn without limits."*
+
+---
+
 <p align="center">
-  <sub>Built with ❤️ — last updated: 2025-09-02</sub>
+  ⭐ If you like my work, consider giving a star to my repositories — it really motivates me!
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ — last updated: 2025-11-29</sub>
 </p>
