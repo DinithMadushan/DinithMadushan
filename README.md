@@ -39,7 +39,7 @@
 
 ## 💡 Featured Projects
 - 📦 **Campus System (Python, OOP)** – Classes for Students, Courses (Degree/Diploma/Certificate), Employees (Academic/Non-Academic), salary & average calculators  
-  - Repo: [DinithMadushan/campus-system](https://github.com/DinithMadushan/campus-system)
+  - Repo: [DinithMadushan/campus-system](https://github.com/DinithMadushan/designed-LMS)
 
 ---
 
