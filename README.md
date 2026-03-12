@@ -37,6 +37,11 @@ Python, Software Development, Research, and System Design
 I enjoy turning complex ideas into working software systems 🚀
 
 ---
+## 💡 Featured Projects
+- 📦 **Campus System (Python, OOP)** – Classes for Students, Courses (Degree/Diploma/Certificate), Employees (Academic/Non-Academic), salary & average calculators  
+  - Repo: [DinithMadushan/campus-system](https://github.com/DinithMadushan/designed-LMS)
+
+---
 
 # 🌐 Connect With Me
 
@@ -136,21 +141,11 @@ I enjoy turning complex ideas into working software systems 🚀
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DinithMadushan&theme=radical">
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=DinithMadushan&icon=5&color=6">
-</p>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=DinithMadushan&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
+</div>
 
 ---
 
