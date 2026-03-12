@@ -1,5 +1,9 @@
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
+<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
 
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="620" alt="programmer at work"/>
 </p>
@@ -9,15 +13,6 @@
   <a href="https://github.com/DinithMadushan?tab=repositories"><img src="https://img.shields.io/badge/Repos-Update%20Me-blue" alt="Repos"></a>
   <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-informational" alt="Pronouns">
   <img src="https://komarev.com/ghpvc/?username=DinithMadushan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm Dinith Madushan</h1>
-<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -48,7 +43,7 @@ I enjoy turning complex ideas into working software systems 🚀
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dinith-madushan-a33972312/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.facebook.com/dinith.madushan.12">
@@ -59,13 +54,23 @@ I enjoy turning complex ideas into working software systems 🚀
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+<a href="https://discord.gg/ZUqaKKWapn">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://reddit.com/user/DM_Supreme">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+</a>
+
+<a href="https://mastodon.social/@DinithMadushan">
+<img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white">
+</a>
+
 <a href="mailto:dinithmadushan38@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
-
----
 
 # 💻 Tech Stack
 
@@ -97,26 +102,36 @@ I enjoy turning complex ideas into working software systems 🚀
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira)
 
 ---
-
-# 🎮 Mini Games
-
-### 🐍 Snake Contribution Game
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DinithMadushan&show_icons=true&theme=tokyonight">
-
+</p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinithMadushan&theme=tokyonight">
-
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithMadushan&layout=compact&theme=tokyonight">
+</p>
 
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinithMadushan&theme=tokyonight">
+</p>
+
+## 💻 Hacker Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DinithMadushan&theme=react-dark">
 </p>
 
 ---
@@ -126,16 +141,6 @@ I enjoy turning complex ideas into working software systems 🚀
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=DinithMadushan&theme=radical">
-
-</p>
-
----
-
-# ✍️ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </p>
 
@@ -165,5 +170,5 @@ I enjoy turning complex ideas into working software systems 🚀
 ---
 
 <p align="center">
-  <sub>Built with ❤️ — last updated: 2025-11-29</sub>
+  <sub>Built with ❤️ — last updated: 2026-03-13</sub>
 </p>
