@@ -107,6 +107,11 @@ I enjoy turning complex ideas into working software systems 🚀
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira)
 
 ---
+# 🧑‍💻 Developer Lifestyle
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+</p>
+
 # 📊 GitHub Analytics
 
 <p align="center">
