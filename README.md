@@ -115,12 +115,13 @@ I enjoy turning complex ideas into working software systems 🚀
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DinithMadushan&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=DinithMadushan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinithMadushan&theme=tokyonight">
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithMadushan&layout=compact&theme=tokyonight">
 </p>
