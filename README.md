@@ -1,7 +1,7 @@
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
 <h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
 
 </p>
 <p align="center">
@@ -80,32 +80,31 @@ I enjoy turning complex ideas into working software systems 🚀
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira)
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ---
 # 🧑‍💻 Developer Lifestyle
 <p align="center">
@@ -118,13 +117,15 @@ I enjoy turning complex ideas into working software systems 🚀
 <img src="https://github-readme-stats.vercel.app/api?username=DinithMadushan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinithMadushan&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithMadushan&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinithMadushan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 
 ## 📊 3D Contribution Graph
@@ -160,7 +161,9 @@ I enjoy turning complex ideas into working software systems 🚀
 </p>
 
 ## 🧭 Personal Motto
-> *"Code with purpose, design with clarity, and learn without limits."*
+<p align="center">
+<em>Code with purpose, design with clarity, and learn without limits.</em>
+</p>
 
 ---
 
@@ -169,6 +172,12 @@ I enjoy turning complex ideas into working software systems 🚀
 </p>
 
 ---
+
+<p align="center">
+<a href="https://github.com/DinithMadushan">
+<img src="https://img.shields.io/badge/Follow%20Me-DinithMadushan-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 <p align="center">
   <sub>Built with ❤️ — last updated: 2026-03-13</sub>
