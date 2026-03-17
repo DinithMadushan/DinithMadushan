@@ -179,6 +179,8 @@ I enjoy turning complex ideas into working software systems 🚀
 </a>
 </p>
 
+<!--
 <p align="center">
   <sub>Built with ❤️ — last updated: 2026-03-13</sub>
 </p>
+-->
