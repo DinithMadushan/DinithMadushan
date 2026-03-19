@@ -1,4 +1,7 @@
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
@@ -154,11 +157,17 @@ I enjoy turning complex ideas into working software systems 🚀
   <img src="https://github-trophies.vercel.app/?username=DinithMadushan&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
----
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <p align="center">
 ✨ <b>"Code. Learn. Build. Repeat."</b> ✨
 </p>
+
 
 ## 🧭 Personal Motto
 <p align="center">
