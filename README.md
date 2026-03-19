@@ -1,12 +1,21 @@
+<!-- Main GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+       width="1050"
+       style="border-radius:20px;" />
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
+
+  <br>
+
+  <!-- Glowing Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=1000"/>
+
+</div>
+<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
-
-</p>
+  <!-- Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile👋;Software+Developer+in+Progress;OOP+%7C+System+Development;Tech+and+Research+Enthusiast🚀🛰️;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
+<br>
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="620" alt="programmer at work"/>
 </p>
@@ -20,7 +29,7 @@
 
 ---
 
-# 💫 About Me
+# 💫 About Me 🚀
 🔭 **Currently working on:**  
 Campus Management Systems and Software Development projects using **Python & OOP**
 
@@ -160,7 +169,6 @@ I enjoy turning complex ideas into working software systems 🚀
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -178,6 +186,9 @@ I enjoy turning complex ideas into working software systems 🚀
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories — it really motivates me!
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 </p>
 
 ---
