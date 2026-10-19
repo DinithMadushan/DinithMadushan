@@ -24,7 +24,7 @@
 </td>
 <td width="58%" valign="top">
 
-### 🖥️ `whoami`
+### 🖥️ `who am i`
 
 ```js
 const dinith = {
