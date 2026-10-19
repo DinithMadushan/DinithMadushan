@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Dinith%20Madushan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Undergraduate%20%7C%20Tech%20Enthusiast%20%7C%20Researcher&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Dinith%20Madushan&fontSize=56&fontColor=00f7ff&animation=twinkling&fontAlignY=36&desc=Building%20things%20that%20read%2C%20think%20and%20log%20%E2%80%94%20one%20fingerprint%20at%20a%20time&descSize=16&descColor=c9d1d9&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Dinith+%F0%9F%91%8B;Software+Developer+in+Progress;OOP+%7C+System+Development;Tech+%26+Research+Enthusiast+%F0%9F%9A%80%F0%9F%9B%B0%EF%B8%8F;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" alt="Typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Dinith+Madushan;%24+building+%E2%86%92+Fingerprint+Lab+Attendance+System;%24+learning+%E2%86%92+Java+%7C+Go+%7C+C%2B%2B+%7C+Python;%24+interests+%E2%86%92+OOP+%7C+System+Design+%7C+Research+%F0%9F%9B%B0%EF%B8%8F;%24+motto+%E2%86%92+Code.+Learn.+Build.+Repeat." alt="Typing animation"/>
 
 <br/>
 
 <a href="https://github.com/DinithMadushan?tab=followers"><img src="https://img.shields.io/github/followers/DinithMadushan?style=for-the-badge&logo=github&color=0e75b6" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=DinithMadushan&label=Profile%20Views&color=7b61ff&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=DinithMadushan&label=Profile%20Views&color=00b8d4&style=for-the-badge" alt="Views"/>
 <img src="https://img.shields.io/github/stars/DinithMadushan?style=for-the-badge&logo=starship&color=ffb400" alt="Stars"/>
-<img src="https://img.shields.io/badge/Status-Building%20things-00c853?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-Building-00c853?style=for-the-badge" alt="Status"/>
 
 </div>
 
@@ -24,14 +24,14 @@
 </td>
 <td width="58%" valign="top">
 
-### 🖥️ `who am i`
+### 🖥️ `about.js`
 
 ```js
 const dinith = {
   role:       "Software Engineering Undergraduate",
-  focus:      ["Python", "OOP", "System Design"],
-  currently:  "Building campus management systems",
-  learning:   ["Software Engineering", "AI", "Modern dev tools"],
+  building:   "Fingerprint Lab Attendance System",
+  learning:   ["Java", "Go", "C++", "Python"],
+  focus:      ["OOP", "System Design", "Embedded + Web"],
   lookingFor: ["Open-source collabs", "Research projects"],
   funFact:    "I turn complex ideas into working software 🚀"
 };
@@ -39,32 +39,86 @@ const dinith = {
 
 💬 **Ask me about:** Python · Software Development · Research · System Design
 
-🤝 **Looking for help with:** Advanced system architecture, AI projects, large-scale system design
+🤝 **Need help with:** System architecture, AI projects, large-scale design
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
-## 🎯 What I'm Up To
+## 🔥 Currently Building
 
-| 🔭 Working on | 🌱 Learning | 👯 Collaborating on |
-|:---:|:---:|:---:|
-| Campus Management Systems with **Python & OOP** | Software Engineering, OOP, modern dev tools | Open-source, research, innovative tech solutions |
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://img.shields.io/badge/NOW-Fingerprint%20Lab%20Attendance%20System-00f7ff?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+</div>
+
+A lab attendance system that identifies students by **fingerprint** instead of paper sign-in sheets. A student scans a finger, the system matches it, and the attendance is logged automatically.
+
+```mermaid
+flowchart LR
+    A[👆 Fingerprint<br/>Scanner] --> B[🔌 Microcontroller<br/>Reads and matches]
+    B --> C[⚙️ Backend<br/>Attendance logic]
+    C --> D[(🗄️ Database)]
+    D --> E[📊 Lab Dashboard<br/>Reports]
+```
+
+<details>
+<summary><b>🗺️ Roadmap (click to expand)</b></summary>
+
+- [ ] Fingerprint enrollment (register students)
+- [ ] Fingerprint matching and verification
+- [ ] Attendance logging per lab session
+- [ ] Admin dashboard and attendance reports
+- [ ] Export reports (CSV / PDF)
+
+> ✏️ Tick the boxes as you finish each step. Edit the list to match your real plan.
+
+</details>
+
+---
+
+## 📚 Learning Journey
+
+<div align="center">
+
+| Language | Focus | Progress |
+|:--|:--|:--|
+| ☕ **Java** | OOP, collections, design patterns | `▰▰▰▱▱▱▱▱` |
+| 🐹 **Go** | Concurrency, APIs, backend services | `▰▰▱▱▱▱▱▱` |
+| ⚙️ **C++** | Memory, STL, systems and embedded | `▰▰▱▱▱▱▱▱` |
+| 🐍 **Python** | OOP, automation, scripting | `▰▰▰▰▰▱▱▱` |
+
+<sub>✏️ Progress bars are placeholders. Change the ▰ / ▱ counts as you improve.</sub>
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔐 Fingerprint Lab Attendance System &nbsp; ![](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square)
+`Fingerprint` `Embedded` `Backend` `Dashboard`
+
+Biometric lab attendance: scan, match, log and report.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-00b8d4?style=for-the-badge&logo=github)](https://github.com/DinithMadushan?tab=repositories)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏫 Campus System
 `Python` `OOP`
 
-Classes for Students, Courses (Degree / Diploma / Certificate) and Employees (Academic / Non-Academic), plus salary and average calculators.
+Students, Courses (Degree / Diploma / Certificate), Employees (Academic / Non-Academic), plus salary and average calculators.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-7b61ff?style=for-the-badge&logo=github)](https://github.com/DinithMadushan/designed-LMS)
 
@@ -81,22 +135,12 @@ Satellite tracking and 3D visualization system.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🔐 Fingerprint Attendance
-`ESP32` `Embedded` `Web`
-
-ESP32-based fingerprint attendance system with a web dashboard.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-7b61ff?style=for-the-badge&logo=github)](https://github.com/DinithMadushan?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Boarding Finder
+### 🏠 Boarding Finder &nbsp; ![](https://img.shields.io/badge/team%20project-6%20members-blue?style=flat-square)
 `Web` `Team Project`
 
-Team-built web app that helps students find boarding places near campus.
+Web app that helps students find boarding places near campus.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-7b61ff?style=for-the-badge&logo=github)](https://github.com/DinithMadushan?tab=repositories)
 
@@ -104,14 +148,14 @@ Team-built web app that helps students find boarding places near campus.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
 ## 💻 Tech Stack
 
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,js&perline=6"/>
+<img src="https://skillicons.dev/icons?i=py,java,go,cpp,c,cs,js&perline=7"/>
 
 **Web**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,php,nodejs,react,laravel&perline=6"/>
@@ -122,7 +166,7 @@ Team-built web app that helps students find boarding places near campus.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
 ## 📊 GitHub Stats
 
@@ -149,7 +193,7 @@ Team-built web app that helps students find boarding places near campus.
 </div>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
 ## 🐍 Contribution Snake
 
@@ -160,7 +204,7 @@ Team-built web app that helps students find boarding places near campus.
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
 ## 🌐 Let's Connect
 
@@ -172,17 +216,15 @@ Team-built web app that helps students find boarding places near campus.
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/DM_Supreme)
 [![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@DinithMadushan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinithmadushan38@gmail.com)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME) -->
 
 <br/>
 
-### 🧭 Personal Motto
 *Code with purpose, design with clarity, and learn without limits.*
 
 ✨ **"Code. Learn. Build. Repeat."** ✨
 
 ⭐ If you like my work, drop a star on my repositories. It really motivates me!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
